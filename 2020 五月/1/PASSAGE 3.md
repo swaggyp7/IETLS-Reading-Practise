@@ -1,0 +1,23 @@
+# PASSAGE 3
+
+*Read the text below and answer **Questions 27-40***
+
+![img](https://iotcdn.oss-ap-southeast-1.aliyuncs.com/2020-11/Driverless%20cars.jpg)
+
+## Driverless cars
+
+Driverless cars may be set to become reality. At least that is, if the executives behind the taxi app, Uber, are to be believed. Currently, Uber is taking its biggest steps yet towards a driver-free world, launching the Uber Advanced Technologies Centre in Pittsburgh. The ultimate goal of this institution is to 'do research and development, primarily in the areas of mapping and vehicle safety and autonomy technology'.
+
+To date, Uber has provided a chauffeur-driven taxi service for American clients. Venturing into the realms of driverless cars is therefore a new direction which will require massive investment. It is indeed a huge leap of faith on Uber's part, since technology has yet to catch up with the idea of a fully autonomous vehicle. On the as well as stay in lane, and maintain a steady cruising seed. In a patchwork fashion such cars could eventually build up to almost full automation and Uber believes that car owners will readily embrace the idea of driverless taxis. In Uber's eyes, current car owners only stand to gain by the introduction of such technology. Hiring a driverless cab means that the client does not have to pay for the cost of the driver in the cab fee. The only cost incurred by clients is for fuel, plus wear and tear. It is certainly an attractive proposition. Uber stands to benefit, too, since employees currently working as taxi drivers will be removed from the company's payroll. Apparently for car drivers and Uber, it is a win-win situation.
+
+Not everyone will benefit however from this technology, the car industry being an obvious example. Not surprisingly, the industry views the concept of selt-driving cars with a sense of growing alarm. Such technology could well prove the death knell for private car ownership. As a result, the industry is dragging its feet over the manufacture and introduction of fully automated vehicles onto the market, due to commercial issues.
+
+The commercial aspect apart, there is also the safety issue. Whilst a fully automated car could respond to most eventualities in the course of a trip, would it be capable of responding to unforeseen events, such as changes in route or unexpected diversions? Evidently legislative authorities are also of this opinion. Currently, no matter how much automation a car has, it still requires a driver with a full licence behind the wheel to drive on public roads. Whilst robot drivers, on the whole, have the upper hand on their human counterparts safety-wise, that still does not guarantee that they will become legal. As a consortium of researchers put it, 'I self-driving cars cut the roughly 40,000 annual US traffic fatalities in half, the car makers might get not 20,000 thank-you notes, but 20,000 lawsuits.'
+
+Interestingly, Uber are now undertaking an aggressive hiring campaign for taxi drivers to meet the demand for their taxi app. It seems that even Uber is less than confident that driverless taxis will soon become a reality. Whether Uber is backing a doomed campaign or instead is about to bring in a technology that will be universally greeted with positivity and acceptance depends entirely on your viewpoint.
+
+John Reynolds, a Pittsburgh taxi driver, is angry at Uber's attitude on fully automated technology. 'They are completely disregarding individual livelihoods, such as mine, as well as those of big car manufacturers in the pursuit of money. Admittedly things change and we have to roll with the times, but there should be some safeguards in place to protect those potentially affected by the introduction of new technologies. I guess I'm biased, being a taxi driver myself, but it's difficult to see it objectively.'
+
+Susie Greenacre, a redident of Pittsburgh, has no such reservations about driverless cars. 'I'm all for it. Driverless cars have my backing, any day! I hate the stress of rush-hour traffic| I think if I could just hop in a driverless car which would take me anywhere I wanted I would never want to drive again!'
+
+Jason Steiner, a school teacher in a Pittsburgh secondary school, is inclined to agree with Susie. 'Whilst I'm not averse to driving, I would swap the stressful daily commute by car to a driverless one if I had the chance! It just takes the pressure off driving. I would be slightly wary though, of completely dependent on a robot-driven car when it comes to having to react to unexpected obstacles in the road.'
