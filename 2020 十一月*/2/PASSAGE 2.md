@@ -4,7 +4,7 @@
 
 ![img](https://iotcdn.oss-ap-southeast-1.aliyuncs.com/2020-11/Arctic%20Survivors.jpg)
 
-## Arctic Survivors
+## Arctic Survivors （极地生还者）
 
 The Arctic is an area located at the northernmost part of the Earth and includes the Arctic Ocean, Canada, Russia, Greenland, the United States, Norway, Sweden, Finland and Iceland. It consists of an ice-covered ocean, surrounded by treeless permafrost. The area can be defined as north of the Arctic Circle, the approximate limit of the midnight sun and the polar night. The average temperature in July, which is the warmest month, is below 10°C. Colder summer temperatures cause the size, abundance, productivity and variety of plants to decrease. Trees cannot grow in the Arctic, but in its warmest parts, shrubs are common and can reach 2 metres in height.
 
