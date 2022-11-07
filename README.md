@@ -1,2 +1,6 @@
 # IETLS-Reading-Practise
-雅思阅读真题文章精读资料备份
+雅思练习资料备份
+
+## Reading
+
+*号代表较难的文章
