@@ -30,5 +30,5 @@ Yes, time managing is important, especially for a programmer. Every times when t
 
 ## Who helps you most at work?
 
-yself, honestly, I'm a self-oriented person. I'd rather trust myself than others. So when I met problem that I don't know, I'd searching on google and find the answer by myself.
+Myself, honestly, I'm a self-oriented person. I'd rather trust myself than others. So when I met the problem that I don't know, I'd searching on google and find the answer by myself.
 

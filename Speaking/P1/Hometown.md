@@ -6,7 +6,7 @@ Absolutely! Lots of stuff change a lot, and the traffic system is the most obvio
 
 ## Is that a big city or a small place?
 
-Emm. It's not so big but never small, I thought. There were 18 counties in my city and more than 1000 square kilometers of the tract. But it's only big literally, In economy and social influence, not as big as well.
+Emm. It's not so big but never small, I thought. There were 18 counties in my city and more than 1000 square kilometers of the tract. But it's only big literally, for the economy and social influence, not as big as well.
 
 ## How long have you been living here?
 
@@ -16,21 +16,15 @@ All the time before I join the college. Now I leave there for almost 5 years. cu
 
 #### Shenzhen, convenience, traffic system, thorough, infrastructure
 
-Well, I've been living in Shenzhen for 1 year, It's a literally huge cosmopolis/metropolis. There're lots of benefits like a convenient metro system that let me go anywhere I want without a car and inclusive infrastructure.
+Well, I've been living in Shenzhen for 1 year, It's a literally huge cosmopolis/metropolis. There're lots of benefits like inclusive infrastructure. the convenient metro system that let me go anywhere I want without a car.
 
 ## Is there anything you dislike about it?
 
 #### incomplete infrastructure, people's upbringing needs to be improved
 
-Yep, nothing is perfect, The infrastructure is not that convenient and complete sometimes, for example, entertainment facilities are rare, and education resources and medical resources could be improved. Furthermore, I think people's upbringing needs to be improved as well.
+Yep, nothing is perfect, The infrastructure is not that convenient and completed sometimes, for example, entertainment facilities are rare, and education resources and medical resources could be improved. Furthermore, I think people's upbringing needs to be improved as well.
 
 ## What do you like most about your hometown?
-
-#### 1
-
-For me, maybe a memory of my childhood, which is precious/valuable and cozy/memorable/pleasant/happy. When I'm sad, I can always recall them and adjust/comfort myself.
-
-#### 2
 
 Orange, which is my favorite fruit and the most popular production export from our city. It's sweet with a little sour and tasty with juicy. And flavor aside, it's pushing our economy up as well.
 
