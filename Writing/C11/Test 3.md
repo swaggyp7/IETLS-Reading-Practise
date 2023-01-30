@@ -14,8 +14,6 @@ Write at least 150 words.
 
 
 
-
-
 ## Task 2
 
 ***Some people say that the only reason for learning a foreign language is in order to travel to or work in a foreign country. Others say that these are not the only reasons why someone should learn a foreign language.\***

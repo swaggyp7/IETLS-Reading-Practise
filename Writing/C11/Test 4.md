@@ -14,7 +14,11 @@ Write at least 150 words.
 
 ![图片6.png](https://img.papaen.com/exam/question/1pjm3WmDI3gsBVYxlL7C8IOheLiG0jcq.png)
 
+The given table and graphs illustrate the cumulative amount of visitors to museum in a year and statistic of the visitor feeling survey respectively in two period - the year before and the year after refurbishment.
 
+Generally, thanks to the furbishment, there was a ripid increase of amount of the visitors, and the amount of the visitors who felt very satisfied rose dramatically as well.
+
+For the data of the year before refurbishment, seventy-four thousands people visited the museum, and 45% of them felt satisfied or very satisfied, but it is noticeable that 40% of visitors felt dissatisfied. However, after the refurbishment, total amount of visitors in that year increased substantially, up to 92000 from 74000, and amount of the people who felt satisfied or very satisfied rose accordingly, from 45% to 75%, most of increase from amount of the people who felt very satisfied which from 15% to 35%. And another apparent change is that the proportion of the people who felt dissatified dropped dramatically, which from the 40% in the year before refurbishment to the 15% after refurbishment.
 
 ## Task 2
 
