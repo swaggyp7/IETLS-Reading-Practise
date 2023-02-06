@@ -10,6 +10,14 @@ Write at least 150 words.
 
 
 
+The given line chart illustrate the cumulative number of minutes(in billions) of telephone call in the UK, which divided in three types, between 1995 and 2002.
+
+Overall, it is evident that the National and international call and the mobile call remain increasing throughout the period. However, the local call started to decrease after 1999.
+
+For the evidence of the National and international call, it climbed gradually from just under 40 billions minutes in 1995 to the last year of period, namely more than 60 billions minutes. The mobile call, however, it increased slowly from less than 5 billions minutes as the similar trend of National and international call until 1998, it was close to 10 billions minutes, but after that, it rose significantly and reached its peak in 2002 -- approximately 45 billions minutes.
+
+The local call was the most popular call type in the period, it is also had more than 70 billions minutes which was same with where it started, in spite of it declined after 1999, in which it reached its summit, namely 90 billions.
+
 ### Edited-edited-edited. 6.0
 
 The given chart below shows the cumulative minutes(in billions) of the telephone calls into the three types in the UK between 1995 and 2002.

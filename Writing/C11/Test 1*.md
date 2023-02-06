@@ -12,6 +12,18 @@ Write at least 150 words.
 
 Answer:
 
+### Edited:
+
+The pie charts illustrate the percentage of the three types of water used in six regions of the world.
+
+In summary, the water used for agriculture take the most part of total used in the area which was consisted of several developing country, just as South America, Africa, Central Asia, and South East Asia. On the contary, however, in the developed area that most proportion of water used for industry, namely North America and Europe.
+
+In terms of the developing areas, It is evident from graphs that all of their agricultural water use both surpass 70%, the tiniest one is South America -- 71%. And the highest proportion is 88% in Central Asia. 
+
+One the another hand, for the data of developed regions, the Europe industrial water used not only higher than North America, but also be the highest one of the six given areas, take 53% from its total water used.
+
+### Original:
+
 The given graph shows the three types of water usage in six regions of the world.
 
 Overall, It is noticeble that North America and Europe had a immense difference with others, which vary by proportion of the industrial water used. Thereby, Industrial water use is most part of water used in other areas.
